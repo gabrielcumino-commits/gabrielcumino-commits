@@ -119,31 +119,6 @@ Projeto de Front-End e Design desenvolvido durante a formação.
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcumino-commits&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5DADE2&icon_color=5DADE2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcumino-commits&layout=compact&hide_border=true&bg_color=0d1117&title_color=5DADE2&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
----
-
-
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcumino-commits&bg_color=0d1117&color=c9d1d9&line=5DADE2&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 
 
