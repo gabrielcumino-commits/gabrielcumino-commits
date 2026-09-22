@@ -131,13 +131,7 @@ Projeto de Front-End e Design desenvolvido durante a formação.
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gabrielcumino-commits&theme=github-dark-blue&hide_border=true&background=0D1117&ring=5DADE2&fire=5DADE2&currStreakLabel=5DADE2" />
-
-</div>
 
 ---
 
@@ -151,13 +145,7 @@ Projeto de Front-End e Design desenvolvido durante a formação.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielcumino-commits&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-
-</div>
 
 ---
 
