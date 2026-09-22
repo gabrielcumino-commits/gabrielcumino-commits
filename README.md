@@ -41,7 +41,7 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base at
 
 Meu GitHub reúne projetos desenvolvidos durante minha formação, experimentos e trabalhos práticos.
 
-> `Aprender → construir → testar → melhorar.`
+
 
 ---
 
