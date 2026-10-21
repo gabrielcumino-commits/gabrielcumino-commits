@@ -100,15 +100,18 @@ Projeto de Front-End desenvolvido durante a formação.
 
 <td width="33%" align="center">
 
-### 🎨 Sprint 02 — Front-End & Design
+### 💰 Lab Financeiro — Análise de Dados Financeiros
 
-<a href="https://github.com/gabrielcumino-commits/Sprint-02-Front-end-Design">
+<a href="https://github.com/gabrielcumino-commits/lab-financeiro">
 <img src="https://img.shields.io/badge/Ver%20repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://lab-financeiro.streamlit.app">
+<img src="https://img.shields.io/badge/Ver%20app%20online-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br><br>
 
-Projeto de Front-End e Design desenvolvido durante a formação.
+Projeto pessoal de análise de dados financeiros desenvolvido 
 
 </td>
 
