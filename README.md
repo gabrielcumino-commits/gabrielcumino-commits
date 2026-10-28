@@ -50,7 +50,10 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base at
 
 </div>
 
-**Também no meu repertório:** SQL, statsmodels, Streamlit e Pytest.
+
+
+
+
 
 ---
 
@@ -74,7 +77,7 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base at
 
 <br><br>
 
-Análise quantitativa de fluxo de caixa com dados reais autorizados e anonimizados: indicadores financeiros, regressão linear, testes estatísticos e séries temporais, com previsão de receita validada e comparada a um modelo de referência. **67 testes automatizados.**
+Análise quantitativa de fluxo de caixa com dados reais autorizados e anonimizados: indicadores financeiros, regressão linear, testes estatísticos e séries temporais, com previsão de receita validada e comparada a um modelo de referência. 
 
 <sub>Python · Pandas · statsmodels · scikit-learn · Streamlit · Pytest</sub>
 
@@ -84,7 +87,7 @@ Análise quantitativa de fluxo de caixa com dados reais autorizados e anonimizad
 
 
 
-### 💻 Projetos acadêmicos
+### 💻 Projetos acadêmicos 
 
 <a href="https://github.com/climasat-alert/gs-web-development">
 <img src="https://img.shields.io/badge/GS%20Web%20Development-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
