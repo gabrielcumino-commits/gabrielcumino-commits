@@ -87,7 +87,7 @@ Análise quantitativa de fluxo de caixa com dados reais autorizados e anonimizad
 
 
 
-### 💻 Projetos acadêmicos 
+### 💻 Projetos Academicos
 
 <a href="https://github.com/climasat-alert/gs-web-development">
 <img src="https://img.shields.io/badge/GS%20Web%20Development-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
