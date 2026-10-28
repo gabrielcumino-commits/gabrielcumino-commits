@@ -42,11 +42,7 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base at
 
 <br><br>
 
-### Dados
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-
-<br><br>
 
 ### Ferramentas
 
